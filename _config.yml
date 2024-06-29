@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Sketchpad
+title: Ashok's blog
 subtitle: ''
 description: ''
 keywords:
@@ -108,6 +108,6 @@ deploy:
   type: git
   repo:
     github:
-      url: https://github.com/s-dubrovskyi/s-dubrovskyi.github.io.git
+      url: https://github.com/Ashok-da/ashok-da.github.io.git
       branch: gh-pages
       token: $GITHUB_TOKEN
