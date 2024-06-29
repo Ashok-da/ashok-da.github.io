@@ -163,6 +163,12 @@ body {
 .mobile-nav-on {
   overflow: hidden;
 }
+section#comments {
+  border-color: #fff;
+  border: 1px 1px 1px 1px;
+  border-style: solid;
+  background: #dde !important;
+}
 #wrap {
   height: 100%;
   width: 100%;
